@@ -1,0 +1,21 @@
+Ben Jenkins
+R. Tyler Loughrey
+Jonathan Hill
+
+
+Contributions:
+Ben: Fixed curly braces and variable names on EchoServer.java
+Tyler: Fixed start curly braces and changed 1 "ex" to "exception".
+Jonathan: Fixed curly braces and changed a variable in ChatClient.java
+
+
+Time spent:
+Ben: 1
+Tyler: 2 Hours
+Jonathan: 2 Hours
+
+
+I have not given, received, or used any unauthorized assistance.
+Ben Jenkins
+Tyler Loughrey
+Jonathan Hill
